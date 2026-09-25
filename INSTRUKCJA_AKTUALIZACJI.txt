@@ -1,0 +1,6 @@
+1. Rozpakuj ZIP.
+2. W repozytorium GitHub usun stare index.html, manifest.json, sw.js i icon.svg lub wgraj nowe pliki z nadpisaniem.
+3. Zatwierdz zmiany przyciskiem Commit changes.
+4. Poczekaj na publikacje GitHub Pages.
+5. Na iPhone zamknij aplikacje, otworz adres w Safari i odswiez strone.
+6. Jesli stara wersja nadal sie pokazuje, usun ikone z ekranu poczatkowego i dodaj ponownie: Safari > Udostepnij > Dodaj do ekranu poczatkowego.
