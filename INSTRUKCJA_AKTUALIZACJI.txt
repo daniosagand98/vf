@@ -1,1 +1,14 @@
-Rozpakuj ZIP i zastap na GitHubie pliki index.html, manifest.json, sw.js i icon.svg. Zatwierdz Commit changes. Po publikacji odswiez strone w Safari. Jesli nadal widac stara wersje, usun ikone aplikacji z ekranu i dodaj ponownie. Przed aktualizacja warto wykonac eksport JSON.
+AKTUALIZACJA DO V5
+
+1. Rozpakuj plik Work_Hours_Mobile_v5.zip.
+2. W repozytorium GitHub wgraj i zastap pliki:
+   - index.html
+   - manifest.json
+   - sw.js
+   - icon.svg
+3. Wybierz Commit changes.
+4. Poczekaj na zakonczenie publikacji w zakladce Actions.
+5. Otworz adres aplikacji w Safari i odswiez strone.
+6. Jesli iPhone nadal pokazuje stara wersje, usun ikone aplikacji z ekranu poczatkowego i dodaj ja ponownie z Safari.
+
+W V5 przycisk Excel pozostaje tylko po lewej stronie dolnego paska. Menu Dane zawiera wylacznie eksport i import JSON.
